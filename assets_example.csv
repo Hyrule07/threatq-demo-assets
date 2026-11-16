@@ -1,6 +1,6 @@
 value,affected_product,affected_vendor,cpe,description
-adc-fips-01.example.test,NetScaler Application Delivery Controller,Citrix,cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:fips:*:*:*,Synthetic demo asset
-adc-ndcpp-02.example.test,NetScaler Application Delivery Controller,Citrix,cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:ndcpp:*:*:*,Synthetic demo asset
+adc-fips-01.example.test,NetScaler ADC and NetScaler Gateway,Citrix,cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:fips:*:*:*,Synthetic demo asset
+adc-ndcpp-02.example.test,NetScaler ADC and NetScaler Gateway,Citrix,cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:ndcpp:*:*:*,Synthetic demo asset
 fw-fortinet-01.example.test,FortiOS,Fortinet,cpe:2.3:o:fortinet:fortios:*:*:*:*:*:*:*:*,Synthetic demo asset
 fw-paloalto-01.example.test,PAN-OS,Palo Alto Networks,cpe:2.3:o:paloaltonetworks:pan-os:*:*:*:*:*:*:*:*,Synthetic demo asset
 vpn-cisco-01.example.test,Adaptive Security Appliance Software,Cisco,cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*,Synthetic demo asset
