@@ -1,4 +1,4 @@
-value,affected_product,affected_vendor,cpe,description,internet_facing
+value,product,vendor,cpe,description,internet_facing
 adc-fips-01.example.test,NetScaler ADC and NetScaler Gateway,Citrix,cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:fips:*:*:*,Synthetic demo asset,Yes
 adc-ndcpp-02.example.test,NetScaler ADC and NetScaler Gateway,Citrix,cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:ndcpp:*:*:*,Synthetic demo asset,No
 fw-fortinet-01.example.test,FortiOS,Fortinet,cpe:2.3:o:fortinet:fortios:*:*:*:*:*:*:*:*,Synthetic demo asset,Yes
